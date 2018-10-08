@@ -1,0 +1,1 @@
+# attrs-kwonly-init-bug
